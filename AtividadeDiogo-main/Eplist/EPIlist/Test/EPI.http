@@ -19,7 +19,7 @@ PUT http://localhost:5136/EpiList/EPI/Atualizar/4
 Content-Type: application/json
 
 {
-  "descricao": "oculos de proteção",
+  "descricao": "Óculos de proteção",
   "c_A": 78412,
   "quantidade": 7
 }
